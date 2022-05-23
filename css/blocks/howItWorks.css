@@ -1,0 +1,26 @@
+.how-It-Work {
+    padding-top: 169 px;
+    padding-bottom: 51 px;
+}
+.how-It-Work-header{
+    display: flex;
+    justify-content: space-between;
+}
+.how-It-Work-header-head{
+    min-width: 584px;
+}
+.how-It-Work-title{
+    margin-bottom: -3px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 157%;
+
+}
+.how-It-Work-subtitle{
+    line-height: 157;
+    font-weight: 700;
+    font-size: 50px;
+    font-family: 'Georgia', serif;
+    color: #01996d;
+
+}
